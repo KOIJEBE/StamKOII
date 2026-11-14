@@ -2,17 +2,17 @@
   "name": "baileys",
   "type": "module",
   "version": "7.0.0-rc14",
-  "description": "A WebSockets library for interacting with WhatsApp Web",
+  "description": "StamKOII WhatsApp Web API",
   "keywords": [
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys/",
+  "homepage": "https://github.com/KOIJEBE/StamKOII/",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
-  },
+  "url": "git+https://github.com/KOIJEBE/StamKOII.git"
+},
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "KOIJEBE",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
